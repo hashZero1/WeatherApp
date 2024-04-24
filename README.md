@@ -1,5 +1,5 @@
 # React + Vite
-## Clone/ Download project
+## Clone/Download the project
 ### After opening the project in Vs code To install all the required dependencies cd into the directory
 
 ```
