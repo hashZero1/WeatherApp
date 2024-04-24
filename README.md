@@ -1,16 +1,17 @@
 # React + Vite
 ## Clone/ Download project
-### After open project in Vs code To install all the required dependencies cd into the directory
+### After opening the project in Vs code To install all the required dependencies cd into the directory
 
 ```
 npm install
 ```
 
-## Start the project
+## To Start the project
 
 ```
 npm run dev
 ```
+
 
 Runs the app in the development mode.<br>
 Open [http://localhost:5173](http://localhost:5173) to view it in the browser or whatever port is vs code shows it to you /available.
