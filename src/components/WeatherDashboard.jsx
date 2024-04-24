@@ -10,7 +10,7 @@ const WeatherDashboard = () => {
     fetchData()
   }
   return (
-    <div className="min-h-screen flex items-center justify-center bg-[radial-gradient(ellipse_at_left,_var(--tw-gradient-stops))] from-indigo-500 via-indigo-300 to-indigo-100">
+    <div className="min-h-screen pt-10 lg:pt-0 flex items-center justify-center bg-[radial-gradient(ellipse_at_left,_var(--tw-gradient-stops))] from-indigo-500 via-indigo-300 to-indigo-100">
     <div className='w-full lg:w-2/5 p-2 lg:p-5'>
          <h1 className="text-3xl text-white drop-shadow-lg mb-4 rounded-lg font-semibold p-4 bg-white bg-opacity-40">Weather APP</h1>
 
