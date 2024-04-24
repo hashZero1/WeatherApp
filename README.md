@@ -1,5 +1,6 @@
 # React + Vite
-### To install all the required dependecies cd into directory
+## Clone/ Download project
+### After open project in Vs code To install all the required dependencies cd into the directory
 
 ```
 npm install
@@ -12,7 +13,7 @@ npm run dev
 ```
 
 Runs the app in the development mode.<br>
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser or whatever port is available/vs code shows it to you.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser or whatever port is vs code shows it to you /available.
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
