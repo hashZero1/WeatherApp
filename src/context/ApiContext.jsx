@@ -18,7 +18,7 @@ export const ApiProvider = ({children}) =>{
          setCityName(data)
         }
         catch(e){
-         console.log(e)
+         alert(e.response.data.error.message)
         }}
     
     const value = {cityName, fetchData, handleChange}
